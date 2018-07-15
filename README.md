@@ -4,7 +4,7 @@ Syntax highlight plugin
 Intro
 -----
 
-This plugins syntax highlights code segments between `\`\`\`` and `<code></code>` tags.
+This plugins syntax highlights code segments between `` ``` `` and `<code></code>` tags.
 
 Requires:
 
@@ -26,4 +26,3 @@ Licensing
 ---------
 
 See [LICENSE](./LICENSE) for licensing information.
-
