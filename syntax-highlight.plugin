@@ -1,0 +1,11 @@
+[Plugin]
+Module=syntax_highlight_plugin
+Depends=
+Loader=python3
+Name=Syntax Highlight plugin
+Description=plugin
+Authors=Gaute Hope
+Copyright=GPLv3
+Website=
+Help=
+Hidden=false
