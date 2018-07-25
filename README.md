@@ -6,9 +6,11 @@ Intro
 
 This plugins syntax highlights code segments between `` ``` `` and `<code></code>` tags.
 
-Requires:
+<img width="80%" src="https://raw.githubusercontent.com/astroidmail/astroid-syntax-highlight/master/demo.png">
 
-  * pygments
+Requirements:
+
+  * [pygments](http://pygments.org/)
 
 Installation
 ------------
