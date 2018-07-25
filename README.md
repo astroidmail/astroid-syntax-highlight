@@ -15,7 +15,7 @@ Requirements:
 Installation
 ------------
 
-the installation is simple as:
+install by doing:
 
 ```sh
 mkdir -p ~/.config/astroid/plugins/
