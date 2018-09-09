@@ -20,7 +20,7 @@ install by doing:
 ```sh
 mkdir -p ~/.config/astroid/plugins/
 cd ~/.config/astroid/plugins/
-git clone https://github.com/astroidmail/syntax-highlight
+git clone https://github.com/astroidmail/astroid-syntax-highlight
 ```
 ...and restart astroid.
 
